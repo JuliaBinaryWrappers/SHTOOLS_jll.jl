@@ -1,384 +1,384 @@
 [[SHTOOLS]]
 arch = "aarch64"
-git-tree-sha1 = "2e78c8af2d951adf71a3f24baecf55177d327ef8"
+git-tree-sha1 = "6739717055271aa1181b913862e9e48a69f6152e"
 libc = "glibc"
 libgfortran_version = "3.0.0"
 os = "linux"
 
     [[SHTOOLS.download]]
-    sha256 = "06f1cf54be4d5a89cea5d697ff12e3105d4ba5cb643d26c85de40cc162dcb154"
-    url = "https://github.com/JuliaBinaryWrappers/SHTOOLS_jll.jl/releases/download/SHTOOLS-v4.8.0+0/SHTOOLS.v4.8.0.aarch64-linux-gnu-libgfortran3.tar.gz"
+    sha256 = "266270a5330624194d8f15ca5091d4a8f7baa074afa904350d6738366d85ac80"
+    url = "https://github.com/JuliaBinaryWrappers/SHTOOLS_jll.jl/releases/download/SHTOOLS-v4.8.0+1/SHTOOLS.v4.8.0.aarch64-linux-gnu-libgfortran3.tar.gz"
 [[SHTOOLS]]
 arch = "aarch64"
-git-tree-sha1 = "3fe865cb7025b15d4a5035cb82279b5a54dad56f"
+git-tree-sha1 = "37aeee399e562965a2f2ff16a766e92b40bc3650"
 libc = "glibc"
 libgfortran_version = "4.0.0"
 os = "linux"
 
     [[SHTOOLS.download]]
-    sha256 = "36f175f39c317c022121343acbac1d42e3e7cbf7a64cc9183b26a95288678427"
-    url = "https://github.com/JuliaBinaryWrappers/SHTOOLS_jll.jl/releases/download/SHTOOLS-v4.8.0+0/SHTOOLS.v4.8.0.aarch64-linux-gnu-libgfortran4.tar.gz"
+    sha256 = "e8960e8d65d9ed51c3dcce861dcf82870d469b6aa1ffd494a6407ea450da4dd1"
+    url = "https://github.com/JuliaBinaryWrappers/SHTOOLS_jll.jl/releases/download/SHTOOLS-v4.8.0+1/SHTOOLS.v4.8.0.aarch64-linux-gnu-libgfortran4.tar.gz"
 [[SHTOOLS]]
 arch = "aarch64"
-git-tree-sha1 = "4a14df2f30258fa598c6437d6212c39b6038d2e4"
+git-tree-sha1 = "148c324034d489220b53528d9a8118d3ec259e28"
 libc = "glibc"
 libgfortran_version = "5.0.0"
 os = "linux"
 
     [[SHTOOLS.download]]
-    sha256 = "94cf41a9b90dc4b72d5e7c88d921d10de1ca6083cef9a982fbefcf7ebb8bb7ff"
-    url = "https://github.com/JuliaBinaryWrappers/SHTOOLS_jll.jl/releases/download/SHTOOLS-v4.8.0+0/SHTOOLS.v4.8.0.aarch64-linux-gnu-libgfortran5.tar.gz"
+    sha256 = "49347607c8f276ec61020ec8c001fd05d4432eb59a3a5748addaf1033803a886"
+    url = "https://github.com/JuliaBinaryWrappers/SHTOOLS_jll.jl/releases/download/SHTOOLS-v4.8.0+1/SHTOOLS.v4.8.0.aarch64-linux-gnu-libgfortran5.tar.gz"
 [[SHTOOLS]]
 arch = "aarch64"
-git-tree-sha1 = "d9ed054e4b06122a3283af5a66395246340e39f0"
+git-tree-sha1 = "3d2cf35a07a0591f4cffe6013e0f06779eae1767"
 libc = "musl"
 libgfortran_version = "3.0.0"
 os = "linux"
 
     [[SHTOOLS.download]]
-    sha256 = "0e09fcd3726c6a93193f9a3598ea2c743fd80a9b01d7ae14e55ef2dd235e8e7c"
-    url = "https://github.com/JuliaBinaryWrappers/SHTOOLS_jll.jl/releases/download/SHTOOLS-v4.8.0+0/SHTOOLS.v4.8.0.aarch64-linux-musl-libgfortran3.tar.gz"
+    sha256 = "74c749b7b84a3663db6700c3d623ebc62566442d8267ce5d21f5d89fe2cb0908"
+    url = "https://github.com/JuliaBinaryWrappers/SHTOOLS_jll.jl/releases/download/SHTOOLS-v4.8.0+1/SHTOOLS.v4.8.0.aarch64-linux-musl-libgfortran3.tar.gz"
 [[SHTOOLS]]
 arch = "aarch64"
-git-tree-sha1 = "df2661bc6e4185c76d0cf7de04e2513dba176daa"
+git-tree-sha1 = "4e3dd9ca90473b989a5eefee5bffe113bc511c0e"
 libc = "musl"
 libgfortran_version = "4.0.0"
 os = "linux"
 
     [[SHTOOLS.download]]
-    sha256 = "1e96fb0abb5d74c59f7f0fb5e679649879af508f90cdcb5b803ad624c998c00b"
-    url = "https://github.com/JuliaBinaryWrappers/SHTOOLS_jll.jl/releases/download/SHTOOLS-v4.8.0+0/SHTOOLS.v4.8.0.aarch64-linux-musl-libgfortran4.tar.gz"
+    sha256 = "5d68374f9959070f7a568b054c7643091c584477ce277ed562c94f487bf68adf"
+    url = "https://github.com/JuliaBinaryWrappers/SHTOOLS_jll.jl/releases/download/SHTOOLS-v4.8.0+1/SHTOOLS.v4.8.0.aarch64-linux-musl-libgfortran4.tar.gz"
 [[SHTOOLS]]
 arch = "aarch64"
-git-tree-sha1 = "eecabe84d7d89d884958f08d364089041d0933fc"
+git-tree-sha1 = "d8e7c3b29f31a565b51fb0ca2e1785a654e33dbb"
 libc = "musl"
 libgfortran_version = "5.0.0"
 os = "linux"
 
     [[SHTOOLS.download]]
-    sha256 = "48b9e3e445dadba00baa8cb989540305e65f439f585bcb7da5546e36f00a4d80"
-    url = "https://github.com/JuliaBinaryWrappers/SHTOOLS_jll.jl/releases/download/SHTOOLS-v4.8.0+0/SHTOOLS.v4.8.0.aarch64-linux-musl-libgfortran5.tar.gz"
+    sha256 = "9e32a2892bc5f4bbcc3deae37e25b8017330022be2d63254a6627941a14e8737"
+    url = "https://github.com/JuliaBinaryWrappers/SHTOOLS_jll.jl/releases/download/SHTOOLS-v4.8.0+1/SHTOOLS.v4.8.0.aarch64-linux-musl-libgfortran5.tar.gz"
 [[SHTOOLS]]
 arch = "armv7l"
 call_abi = "eabihf"
-git-tree-sha1 = "87770d329b7d7565339ad00588905a5c35e4ac06"
+git-tree-sha1 = "5f364c1cd1ef071fd6fc6c8335f573b91751cdf4"
 libc = "glibc"
 libgfortran_version = "3.0.0"
 os = "linux"
 
     [[SHTOOLS.download]]
-    sha256 = "33dcafc792282ae8c7d02b4e7818a03c6fca2b088f97429a2e27fca13cedc5b8"
-    url = "https://github.com/JuliaBinaryWrappers/SHTOOLS_jll.jl/releases/download/SHTOOLS-v4.8.0+0/SHTOOLS.v4.8.0.armv7l-linux-gnueabihf-libgfortran3.tar.gz"
+    sha256 = "56ffbbd5c463c335b8e5e0ab2951f201078b14cb20d2ba99224be68b540550ce"
+    url = "https://github.com/JuliaBinaryWrappers/SHTOOLS_jll.jl/releases/download/SHTOOLS-v4.8.0+1/SHTOOLS.v4.8.0.armv7l-linux-gnueabihf-libgfortran3.tar.gz"
 [[SHTOOLS]]
 arch = "armv7l"
 call_abi = "eabihf"
-git-tree-sha1 = "3ab1828b814f040bc14f2a9854abf4f65c739290"
+git-tree-sha1 = "35110010ebdd8ab575ecaf5308d78385fd3afb94"
 libc = "glibc"
 libgfortran_version = "4.0.0"
 os = "linux"
 
     [[SHTOOLS.download]]
-    sha256 = "4fcee0a9559a6b0a26f2959d458412a22ecedf85306a34692ff71fb5b07a8586"
-    url = "https://github.com/JuliaBinaryWrappers/SHTOOLS_jll.jl/releases/download/SHTOOLS-v4.8.0+0/SHTOOLS.v4.8.0.armv7l-linux-gnueabihf-libgfortran4.tar.gz"
+    sha256 = "9bda7e7c1246c261848bdcd6ca885e4f18a3353158824637c361e0f2373fff54"
+    url = "https://github.com/JuliaBinaryWrappers/SHTOOLS_jll.jl/releases/download/SHTOOLS-v4.8.0+1/SHTOOLS.v4.8.0.armv7l-linux-gnueabihf-libgfortran4.tar.gz"
 [[SHTOOLS]]
 arch = "armv7l"
 call_abi = "eabihf"
-git-tree-sha1 = "11d07842396b5754cd31c5a83175264c4788a042"
+git-tree-sha1 = "bb79fe5731dec671b03ee7b76c98ec5b5d3fe091"
 libc = "glibc"
 libgfortran_version = "5.0.0"
 os = "linux"
 
     [[SHTOOLS.download]]
-    sha256 = "6647d05dc1f820aab66a86b820de2d76fcf7137ea536b33069affd448e3e04e4"
-    url = "https://github.com/JuliaBinaryWrappers/SHTOOLS_jll.jl/releases/download/SHTOOLS-v4.8.0+0/SHTOOLS.v4.8.0.armv7l-linux-gnueabihf-libgfortran5.tar.gz"
+    sha256 = "533777eaa1d3215f74c1d85767c5b741b951bab2dd98ad737d6b13e243e317ba"
+    url = "https://github.com/JuliaBinaryWrappers/SHTOOLS_jll.jl/releases/download/SHTOOLS-v4.8.0+1/SHTOOLS.v4.8.0.armv7l-linux-gnueabihf-libgfortran5.tar.gz"
 [[SHTOOLS]]
 arch = "armv7l"
 call_abi = "eabihf"
-git-tree-sha1 = "45b37b415a85456f1a950916f7b152dcbcabef5d"
+git-tree-sha1 = "7b18ad3b7f6ab8c7430dbcbd1a05fd9f8db3eb5e"
 libc = "musl"
 libgfortran_version = "3.0.0"
 os = "linux"
 
     [[SHTOOLS.download]]
-    sha256 = "9cb29c0f65f517b92848877c4ecdbec0b943fbdcc16e4dc18937b43d065626d2"
-    url = "https://github.com/JuliaBinaryWrappers/SHTOOLS_jll.jl/releases/download/SHTOOLS-v4.8.0+0/SHTOOLS.v4.8.0.armv7l-linux-musleabihf-libgfortran3.tar.gz"
+    sha256 = "1923b94ef2db004972db41a01393e6ebc5b256774e313a54dfef655539a3398e"
+    url = "https://github.com/JuliaBinaryWrappers/SHTOOLS_jll.jl/releases/download/SHTOOLS-v4.8.0+1/SHTOOLS.v4.8.0.armv7l-linux-musleabihf-libgfortran3.tar.gz"
 [[SHTOOLS]]
 arch = "armv7l"
 call_abi = "eabihf"
-git-tree-sha1 = "8d9869638cffd255144ee326c36083864dbb7dfa"
+git-tree-sha1 = "5c144b90bc903702e9317fab89f101ac222cb13d"
 libc = "musl"
 libgfortran_version = "4.0.0"
 os = "linux"
 
     [[SHTOOLS.download]]
-    sha256 = "a7eba7279dc177001f81b15f172a3436afaf24bd423defaa68d234f6b529fd8a"
-    url = "https://github.com/JuliaBinaryWrappers/SHTOOLS_jll.jl/releases/download/SHTOOLS-v4.8.0+0/SHTOOLS.v4.8.0.armv7l-linux-musleabihf-libgfortran4.tar.gz"
+    sha256 = "3df1f70436bedc6a2207dc647ebe43d5a0e09e70e02acb56e2ec61588f89ae38"
+    url = "https://github.com/JuliaBinaryWrappers/SHTOOLS_jll.jl/releases/download/SHTOOLS-v4.8.0+1/SHTOOLS.v4.8.0.armv7l-linux-musleabihf-libgfortran4.tar.gz"
 [[SHTOOLS]]
 arch = "armv7l"
 call_abi = "eabihf"
-git-tree-sha1 = "1530dbf0c8afd2fbd42f1463a44e4936e5a0c1d8"
+git-tree-sha1 = "be999f26dd21b41d1adf8805c22527ee2c5e3673"
 libc = "musl"
 libgfortran_version = "5.0.0"
 os = "linux"
 
     [[SHTOOLS.download]]
-    sha256 = "6299254b16d82a0c6324def60cfb182a5ffc543f1d2e47b5b86615cdb3eeea91"
-    url = "https://github.com/JuliaBinaryWrappers/SHTOOLS_jll.jl/releases/download/SHTOOLS-v4.8.0+0/SHTOOLS.v4.8.0.armv7l-linux-musleabihf-libgfortran5.tar.gz"
+    sha256 = "702ee4cdfed3cdc850055a05e24a65a492b4d19fa9c5d1df5cbf61f2ffabaeae"
+    url = "https://github.com/JuliaBinaryWrappers/SHTOOLS_jll.jl/releases/download/SHTOOLS-v4.8.0+1/SHTOOLS.v4.8.0.armv7l-linux-musleabihf-libgfortran5.tar.gz"
 [[SHTOOLS]]
 arch = "i686"
-git-tree-sha1 = "26ee833d5998b5333b8f7744dbc7a38449a2f01f"
+git-tree-sha1 = "830922ac97848a93b3fc9f5bb82c21f90442565d"
 libc = "glibc"
 libgfortran_version = "3.0.0"
 os = "linux"
 
     [[SHTOOLS.download]]
-    sha256 = "3b46547a31a42352bbad0ed6561825a74c477fb603295d2160cea2481251fca9"
-    url = "https://github.com/JuliaBinaryWrappers/SHTOOLS_jll.jl/releases/download/SHTOOLS-v4.8.0+0/SHTOOLS.v4.8.0.i686-linux-gnu-libgfortran3.tar.gz"
+    sha256 = "6445fb1bec3663da8ec3ceeb8113d5616eda412b7a0f0e316d39c991e1eb7b95"
+    url = "https://github.com/JuliaBinaryWrappers/SHTOOLS_jll.jl/releases/download/SHTOOLS-v4.8.0+1/SHTOOLS.v4.8.0.i686-linux-gnu-libgfortran3.tar.gz"
 [[SHTOOLS]]
 arch = "i686"
-git-tree-sha1 = "73ed21882c8e3c5116ab586a2ab1edb8548313c3"
+git-tree-sha1 = "e705ad3f05c899c52ad38c0bcbb8a0259ea458bc"
 libc = "glibc"
 libgfortran_version = "4.0.0"
 os = "linux"
 
     [[SHTOOLS.download]]
-    sha256 = "3fd567025327a2f09b193c001b56aa11ad502918225877d3105a6243e9be4106"
-    url = "https://github.com/JuliaBinaryWrappers/SHTOOLS_jll.jl/releases/download/SHTOOLS-v4.8.0+0/SHTOOLS.v4.8.0.i686-linux-gnu-libgfortran4.tar.gz"
+    sha256 = "a90aa718439bc9d255a25b9a9d11aa48f2f60ec7e0a5c91e21e39eacc396874d"
+    url = "https://github.com/JuliaBinaryWrappers/SHTOOLS_jll.jl/releases/download/SHTOOLS-v4.8.0+1/SHTOOLS.v4.8.0.i686-linux-gnu-libgfortran4.tar.gz"
 [[SHTOOLS]]
 arch = "i686"
-git-tree-sha1 = "44ccbf3b6f553f21dd5e7c3b22e8d924cf999e09"
+git-tree-sha1 = "8a676a1b2c226e6c570da1cf54e5a6cdbeb2e259"
 libc = "glibc"
 libgfortran_version = "5.0.0"
 os = "linux"
 
     [[SHTOOLS.download]]
-    sha256 = "546666994354118c36d7d7b22520e096ef68fbfc35ad7f17520163c104e3bc4f"
-    url = "https://github.com/JuliaBinaryWrappers/SHTOOLS_jll.jl/releases/download/SHTOOLS-v4.8.0+0/SHTOOLS.v4.8.0.i686-linux-gnu-libgfortran5.tar.gz"
+    sha256 = "3acaf144da6bb8e9c7f0704afea61f123d7b88fbb410d5be160ccaf546cd1231"
+    url = "https://github.com/JuliaBinaryWrappers/SHTOOLS_jll.jl/releases/download/SHTOOLS-v4.8.0+1/SHTOOLS.v4.8.0.i686-linux-gnu-libgfortran5.tar.gz"
 [[SHTOOLS]]
 arch = "i686"
-git-tree-sha1 = "9b16abc5e462c50f7c79b0203bc44a45ff9c97dd"
+git-tree-sha1 = "13957a5d792928ea7d1f3af2cf12e269d1ec3d1a"
 libc = "musl"
 libgfortran_version = "3.0.0"
 os = "linux"
 
     [[SHTOOLS.download]]
-    sha256 = "a6b46888dd0dafc191b6b831a2f8c7d8e70ca9777996bb64e3677d3d5fddcbcf"
-    url = "https://github.com/JuliaBinaryWrappers/SHTOOLS_jll.jl/releases/download/SHTOOLS-v4.8.0+0/SHTOOLS.v4.8.0.i686-linux-musl-libgfortran3.tar.gz"
+    sha256 = "ebaf76383f3e6d43a45d302403be1fda82c3260b8b6fac05957353033d93d5e1"
+    url = "https://github.com/JuliaBinaryWrappers/SHTOOLS_jll.jl/releases/download/SHTOOLS-v4.8.0+1/SHTOOLS.v4.8.0.i686-linux-musl-libgfortran3.tar.gz"
 [[SHTOOLS]]
 arch = "i686"
-git-tree-sha1 = "1b3edf4a38f8e0e0255e64b06ca87cfa5f00fc72"
+git-tree-sha1 = "ae3add7d20ca84133fae21c84148a9784a35478c"
 libc = "musl"
 libgfortran_version = "4.0.0"
 os = "linux"
 
     [[SHTOOLS.download]]
-    sha256 = "ef24ea21b1069a42d40e2959b705ab21e1dc17fb2f20cf9fad7502f990129d0f"
-    url = "https://github.com/JuliaBinaryWrappers/SHTOOLS_jll.jl/releases/download/SHTOOLS-v4.8.0+0/SHTOOLS.v4.8.0.i686-linux-musl-libgfortran4.tar.gz"
+    sha256 = "a0e6fccd2eed21ad698eba0659963be480b394797507e21172f9cee94ba01d0a"
+    url = "https://github.com/JuliaBinaryWrappers/SHTOOLS_jll.jl/releases/download/SHTOOLS-v4.8.0+1/SHTOOLS.v4.8.0.i686-linux-musl-libgfortran4.tar.gz"
 [[SHTOOLS]]
 arch = "i686"
-git-tree-sha1 = "246a5deb1c9dd77e1df556de3cf440bc6c9d8a3e"
+git-tree-sha1 = "142a4aaa9c6b1d684b0077db09c813b854096b71"
 libc = "musl"
 libgfortran_version = "5.0.0"
 os = "linux"
 
     [[SHTOOLS.download]]
-    sha256 = "0f8629cca59b328080c7cb2b991593b980d52dbec33f909c2f45a568ab11a68b"
-    url = "https://github.com/JuliaBinaryWrappers/SHTOOLS_jll.jl/releases/download/SHTOOLS-v4.8.0+0/SHTOOLS.v4.8.0.i686-linux-musl-libgfortran5.tar.gz"
+    sha256 = "4fb5e120ff404e72b003679b64f8e692de3bedf06cd287a755804a9af4bb89f7"
+    url = "https://github.com/JuliaBinaryWrappers/SHTOOLS_jll.jl/releases/download/SHTOOLS-v4.8.0+1/SHTOOLS.v4.8.0.i686-linux-musl-libgfortran5.tar.gz"
 [[SHTOOLS]]
 arch = "i686"
-git-tree-sha1 = "c09d49726600edd8400dae64ab2d9c84f12d907d"
+git-tree-sha1 = "30d6157457ec31d0524acd44937507571550a62f"
 libgfortran_version = "3.0.0"
 os = "windows"
 
     [[SHTOOLS.download]]
-    sha256 = "941d3ccb859e528ce3228a00f90f2a0954722c7eae671270e79754590aa01994"
-    url = "https://github.com/JuliaBinaryWrappers/SHTOOLS_jll.jl/releases/download/SHTOOLS-v4.8.0+0/SHTOOLS.v4.8.0.i686-w64-mingw32-libgfortran3.tar.gz"
+    sha256 = "596bfe8b1d3f9258c27572047c85ee85147bbdc9a062e0cab5dc046cd94b9296"
+    url = "https://github.com/JuliaBinaryWrappers/SHTOOLS_jll.jl/releases/download/SHTOOLS-v4.8.0+1/SHTOOLS.v4.8.0.i686-w64-mingw32-libgfortran3.tar.gz"
 [[SHTOOLS]]
 arch = "i686"
-git-tree-sha1 = "d5bb7fabed33297d588a772fee168cca543fc1bf"
+git-tree-sha1 = "08ddf88ed06a20db31ba977ad4ece3f271259e5d"
 libgfortran_version = "4.0.0"
 os = "windows"
 
     [[SHTOOLS.download]]
-    sha256 = "164a11092c5232a4f1c941aa9a07e36dad8cccd7e7f2393b4389b182be7ecaa4"
-    url = "https://github.com/JuliaBinaryWrappers/SHTOOLS_jll.jl/releases/download/SHTOOLS-v4.8.0+0/SHTOOLS.v4.8.0.i686-w64-mingw32-libgfortran4.tar.gz"
+    sha256 = "77a5460772d7a5f8cc9ecdccac4a8d43cc958e4816e5f44994f14af9dd10b490"
+    url = "https://github.com/JuliaBinaryWrappers/SHTOOLS_jll.jl/releases/download/SHTOOLS-v4.8.0+1/SHTOOLS.v4.8.0.i686-w64-mingw32-libgfortran4.tar.gz"
 [[SHTOOLS]]
 arch = "i686"
-git-tree-sha1 = "666c9549929fc2a9018a6a6a80a93dcd759094fd"
+git-tree-sha1 = "bbd87b151b6fe73caf85c900a0a1a21241701ad5"
 libgfortran_version = "5.0.0"
 os = "windows"
 
     [[SHTOOLS.download]]
-    sha256 = "a2025d4d23c5b01d1cb772ab1468fa41064a4871288d3b3bb1da8fd173e91ccb"
-    url = "https://github.com/JuliaBinaryWrappers/SHTOOLS_jll.jl/releases/download/SHTOOLS-v4.8.0+0/SHTOOLS.v4.8.0.i686-w64-mingw32-libgfortran5.tar.gz"
+    sha256 = "ac48c9ab9004c67a17b2419e829837e9eacb63e0b77be3fdf502c1a72625375c"
+    url = "https://github.com/JuliaBinaryWrappers/SHTOOLS_jll.jl/releases/download/SHTOOLS-v4.8.0+1/SHTOOLS.v4.8.0.i686-w64-mingw32-libgfortran5.tar.gz"
 [[SHTOOLS]]
 arch = "powerpc64le"
-git-tree-sha1 = "bf02e6079487438da30a49b7fc7b8cd41df84b18"
+git-tree-sha1 = "4f222dea7b89e0801e58423db6192f284915396d"
 libc = "glibc"
 libgfortran_version = "3.0.0"
 os = "linux"
 
     [[SHTOOLS.download]]
-    sha256 = "cb162f026253cde8e59bdd48ec1f16e9e44ebc6c8dbcb65229f8056d6dc00602"
-    url = "https://github.com/JuliaBinaryWrappers/SHTOOLS_jll.jl/releases/download/SHTOOLS-v4.8.0+0/SHTOOLS.v4.8.0.powerpc64le-linux-gnu-libgfortran3.tar.gz"
+    sha256 = "cb4918abee19194a157356c81ae461f512e2b2d27e73fc2acd0a4c704c082e34"
+    url = "https://github.com/JuliaBinaryWrappers/SHTOOLS_jll.jl/releases/download/SHTOOLS-v4.8.0+1/SHTOOLS.v4.8.0.powerpc64le-linux-gnu-libgfortran3.tar.gz"
 [[SHTOOLS]]
 arch = "powerpc64le"
-git-tree-sha1 = "5a09cc20452ebf550937adb073d2f0c88177ba8b"
+git-tree-sha1 = "85084dfe567577d9162c2657caa317362dab7a4c"
 libc = "glibc"
 libgfortran_version = "4.0.0"
 os = "linux"
 
     [[SHTOOLS.download]]
-    sha256 = "adaaf9c9db455d4a104153762fc84af124a460a4890a32a83a73615352261ce9"
-    url = "https://github.com/JuliaBinaryWrappers/SHTOOLS_jll.jl/releases/download/SHTOOLS-v4.8.0+0/SHTOOLS.v4.8.0.powerpc64le-linux-gnu-libgfortran4.tar.gz"
+    sha256 = "f32eac4765347936d7e927944d83005c71487b7b2ea79eaa79068e1f0ec1c81d"
+    url = "https://github.com/JuliaBinaryWrappers/SHTOOLS_jll.jl/releases/download/SHTOOLS-v4.8.0+1/SHTOOLS.v4.8.0.powerpc64le-linux-gnu-libgfortran4.tar.gz"
 [[SHTOOLS]]
 arch = "powerpc64le"
-git-tree-sha1 = "8320aa3c6fb5faca065a935b363c51cb3207c6ee"
+git-tree-sha1 = "6893a5797d3c88567818194a7ccfa65d9e736447"
 libc = "glibc"
 libgfortran_version = "5.0.0"
 os = "linux"
 
     [[SHTOOLS.download]]
-    sha256 = "8b4854119d18c3f146dda7df14d1975d3931acff7087ca84d666cda4f09917fc"
-    url = "https://github.com/JuliaBinaryWrappers/SHTOOLS_jll.jl/releases/download/SHTOOLS-v4.8.0+0/SHTOOLS.v4.8.0.powerpc64le-linux-gnu-libgfortran5.tar.gz"
+    sha256 = "328788ff1dbf10824b975fa0038ddf377c9d0c0176ee9b7b3afb7242e92c0bbb"
+    url = "https://github.com/JuliaBinaryWrappers/SHTOOLS_jll.jl/releases/download/SHTOOLS-v4.8.0+1/SHTOOLS.v4.8.0.powerpc64le-linux-gnu-libgfortran5.tar.gz"
 [[SHTOOLS]]
 arch = "x86_64"
-git-tree-sha1 = "5876f5d88df469f2858a952a8a98b83754edf890"
+git-tree-sha1 = "86cf0857dc674fc7796ea2f1d752f997fea7fa4a"
 libgfortran_version = "3.0.0"
 os = "macos"
 
     [[SHTOOLS.download]]
-    sha256 = "f085f577b75655e4974e961480dffa602cf5ff2b370a5cbd01633ef3d2f5b171"
-    url = "https://github.com/JuliaBinaryWrappers/SHTOOLS_jll.jl/releases/download/SHTOOLS-v4.8.0+0/SHTOOLS.v4.8.0.x86_64-apple-darwin-libgfortran3.tar.gz"
+    sha256 = "466e55fcf5568a4828a9dc48e2204767bb85ab6ca322287cfed128dbdcecd98c"
+    url = "https://github.com/JuliaBinaryWrappers/SHTOOLS_jll.jl/releases/download/SHTOOLS-v4.8.0+1/SHTOOLS.v4.8.0.x86_64-apple-darwin-libgfortran3.tar.gz"
 [[SHTOOLS]]
 arch = "x86_64"
-git-tree-sha1 = "a441ff618eed02322e948923051bcefaf8b9b3e3"
+git-tree-sha1 = "7ef12ea821640b2685b9d929818f719429d890b7"
 libgfortran_version = "4.0.0"
 os = "macos"
 
     [[SHTOOLS.download]]
-    sha256 = "223d39b9e0d15d9f5024a2acae543b639d5c6d6ea67c4e7cd3888802d5829a3b"
-    url = "https://github.com/JuliaBinaryWrappers/SHTOOLS_jll.jl/releases/download/SHTOOLS-v4.8.0+0/SHTOOLS.v4.8.0.x86_64-apple-darwin-libgfortran4.tar.gz"
+    sha256 = "1beaa69ebf88bc200975918cd2c08f4da4f9dcc15486056efbe9b66f94a81007"
+    url = "https://github.com/JuliaBinaryWrappers/SHTOOLS_jll.jl/releases/download/SHTOOLS-v4.8.0+1/SHTOOLS.v4.8.0.x86_64-apple-darwin-libgfortran4.tar.gz"
 [[SHTOOLS]]
 arch = "x86_64"
-git-tree-sha1 = "514dbbc4f79375404616813ac98aeee6c0628ac8"
+git-tree-sha1 = "5420560c3e44195ea597149c4adddf866d280705"
 libgfortran_version = "5.0.0"
 os = "macos"
 
     [[SHTOOLS.download]]
-    sha256 = "0d6cb3bdf95dbfa4c3133d86b6bbc2f6a9c395a827d77181f7cf0c5c92bfb7bf"
-    url = "https://github.com/JuliaBinaryWrappers/SHTOOLS_jll.jl/releases/download/SHTOOLS-v4.8.0+0/SHTOOLS.v4.8.0.x86_64-apple-darwin-libgfortran5.tar.gz"
+    sha256 = "c947523ecb102ce7ceff2d953bb50e89000605b15fb7e314e11538a74315e672"
+    url = "https://github.com/JuliaBinaryWrappers/SHTOOLS_jll.jl/releases/download/SHTOOLS-v4.8.0+1/SHTOOLS.v4.8.0.x86_64-apple-darwin-libgfortran5.tar.gz"
 [[SHTOOLS]]
 arch = "x86_64"
-git-tree-sha1 = "4825d6599937ebe2b7d18ad14b2e9a3fe459e75e"
+git-tree-sha1 = "068fa18db42f1da49853a563a69499b794ef8e5f"
 libc = "glibc"
 libgfortran_version = "3.0.0"
 os = "linux"
 
     [[SHTOOLS.download]]
-    sha256 = "82ff6e84210bed19d3596aaec6c1934878da32dd4d4d60f57a8e5a0c3f24b719"
-    url = "https://github.com/JuliaBinaryWrappers/SHTOOLS_jll.jl/releases/download/SHTOOLS-v4.8.0+0/SHTOOLS.v4.8.0.x86_64-linux-gnu-libgfortran3.tar.gz"
+    sha256 = "583003203eecbf1a3f0238da38e985c739709d497bed7cb372223f1360c58dc7"
+    url = "https://github.com/JuliaBinaryWrappers/SHTOOLS_jll.jl/releases/download/SHTOOLS-v4.8.0+1/SHTOOLS.v4.8.0.x86_64-linux-gnu-libgfortran3.tar.gz"
 [[SHTOOLS]]
 arch = "x86_64"
-git-tree-sha1 = "eef27dc0f947736434a99a32a470fccac98c0970"
+git-tree-sha1 = "5924bd52e3b4e995cd5f76d582af568202d5de98"
 libc = "glibc"
 libgfortran_version = "4.0.0"
 os = "linux"
 
     [[SHTOOLS.download]]
-    sha256 = "48d6a6ea43b08c54e719a1df4c10a75e76e22b0da5b30572243ac7f4a7349d57"
-    url = "https://github.com/JuliaBinaryWrappers/SHTOOLS_jll.jl/releases/download/SHTOOLS-v4.8.0+0/SHTOOLS.v4.8.0.x86_64-linux-gnu-libgfortran4.tar.gz"
+    sha256 = "0e3eb7b02834c7bb9f249e5f5d44558ad4a0f3bfcc1409ae091c67ca102e9519"
+    url = "https://github.com/JuliaBinaryWrappers/SHTOOLS_jll.jl/releases/download/SHTOOLS-v4.8.0+1/SHTOOLS.v4.8.0.x86_64-linux-gnu-libgfortran4.tar.gz"
 [[SHTOOLS]]
 arch = "x86_64"
-git-tree-sha1 = "e89020db900d3f21e2162b59780a3d0fd9e29c83"
+git-tree-sha1 = "97a62392b077444d09ab2f400d625c3ddd35939b"
 libc = "glibc"
 libgfortran_version = "5.0.0"
 os = "linux"
 
     [[SHTOOLS.download]]
-    sha256 = "d5b15c6b1a867c361d23c9a7b83292e1076834d589bc1a50244c7ff564ff7dca"
-    url = "https://github.com/JuliaBinaryWrappers/SHTOOLS_jll.jl/releases/download/SHTOOLS-v4.8.0+0/SHTOOLS.v4.8.0.x86_64-linux-gnu-libgfortran5.tar.gz"
+    sha256 = "845fc7b1fe7b22d6a15ca1c7100c9a4f9cd49904e446b37a7241f775ee23cba2"
+    url = "https://github.com/JuliaBinaryWrappers/SHTOOLS_jll.jl/releases/download/SHTOOLS-v4.8.0+1/SHTOOLS.v4.8.0.x86_64-linux-gnu-libgfortran5.tar.gz"
 [[SHTOOLS]]
 arch = "x86_64"
-git-tree-sha1 = "6dc501827def51fbe151653fd877fc6aab5ea32c"
+git-tree-sha1 = "394ab95635f8adef2feaa5e6fa5e69b64b0e5c08"
 libc = "musl"
 libgfortran_version = "3.0.0"
 os = "linux"
 
     [[SHTOOLS.download]]
-    sha256 = "ca0c78b0b42e43d5f3e3d9df543ecbcafe27cfaa0e87d71bfc7b2d858f7fd9a9"
-    url = "https://github.com/JuliaBinaryWrappers/SHTOOLS_jll.jl/releases/download/SHTOOLS-v4.8.0+0/SHTOOLS.v4.8.0.x86_64-linux-musl-libgfortran3.tar.gz"
+    sha256 = "644ac0d91b6e8f0984b6e8e9a07afe70905471a8801fc696c4aa04b6b9963e47"
+    url = "https://github.com/JuliaBinaryWrappers/SHTOOLS_jll.jl/releases/download/SHTOOLS-v4.8.0+1/SHTOOLS.v4.8.0.x86_64-linux-musl-libgfortran3.tar.gz"
 [[SHTOOLS]]
 arch = "x86_64"
-git-tree-sha1 = "c0c8c60c7fa8b1723e01c9cc7419a7f24120dfcf"
+git-tree-sha1 = "fb4e231c575a07519602916ad784f0679777c4a1"
 libc = "musl"
 libgfortran_version = "4.0.0"
 os = "linux"
 
     [[SHTOOLS.download]]
-    sha256 = "a213b6fcf365492d371b46ff8079405917e402fa23d42d0308e4203bb5931fff"
-    url = "https://github.com/JuliaBinaryWrappers/SHTOOLS_jll.jl/releases/download/SHTOOLS-v4.8.0+0/SHTOOLS.v4.8.0.x86_64-linux-musl-libgfortran4.tar.gz"
+    sha256 = "b67e6b34e816b91188757374a821033f07cb3eb568b51b9d787c9fc35cf1c634"
+    url = "https://github.com/JuliaBinaryWrappers/SHTOOLS_jll.jl/releases/download/SHTOOLS-v4.8.0+1/SHTOOLS.v4.8.0.x86_64-linux-musl-libgfortran4.tar.gz"
 [[SHTOOLS]]
 arch = "x86_64"
-git-tree-sha1 = "bfd1a4a66f2ef6b60fac8163ba11a0b2276a60dd"
+git-tree-sha1 = "28535730899475feb2b4de29ec15e08d3497c2a7"
 libc = "musl"
 libgfortran_version = "5.0.0"
 os = "linux"
 
     [[SHTOOLS.download]]
-    sha256 = "406f51213e386a470c29a2dcd32a8e330df717e5b70c29bd45447e6835978e09"
-    url = "https://github.com/JuliaBinaryWrappers/SHTOOLS_jll.jl/releases/download/SHTOOLS-v4.8.0+0/SHTOOLS.v4.8.0.x86_64-linux-musl-libgfortran5.tar.gz"
+    sha256 = "30fe1c3e4a33b0563f3754b74874798e6e329f332a717be5c6af46d02eefda57"
+    url = "https://github.com/JuliaBinaryWrappers/SHTOOLS_jll.jl/releases/download/SHTOOLS-v4.8.0+1/SHTOOLS.v4.8.0.x86_64-linux-musl-libgfortran5.tar.gz"
 [[SHTOOLS]]
 arch = "x86_64"
-git-tree-sha1 = "8f2928fa84e9bef7bd6f9cc4396ebe717efd80ca"
+git-tree-sha1 = "fac1a690abbbed5684e2a45faec2d8684576917f"
 libgfortran_version = "3.0.0"
 os = "freebsd"
 
     [[SHTOOLS.download]]
-    sha256 = "facca68a8bc4c229748fefe1feeae1962156d5cc993edddf07fe251c6ce2822c"
-    url = "https://github.com/JuliaBinaryWrappers/SHTOOLS_jll.jl/releases/download/SHTOOLS-v4.8.0+0/SHTOOLS.v4.8.0.x86_64-unknown-freebsd-libgfortran3.tar.gz"
+    sha256 = "c291b139790ff12054da5afbf9d03a9e4eb2fc921ff5a17474316bebf908b8da"
+    url = "https://github.com/JuliaBinaryWrappers/SHTOOLS_jll.jl/releases/download/SHTOOLS-v4.8.0+1/SHTOOLS.v4.8.0.x86_64-unknown-freebsd-libgfortran3.tar.gz"
 [[SHTOOLS]]
 arch = "x86_64"
-git-tree-sha1 = "cbeb9b13e46d0b9575dbe7f01d73d260a985d610"
+git-tree-sha1 = "a6adfbb02b050af320ccd19483f5f6250c89de9d"
 libgfortran_version = "4.0.0"
 os = "freebsd"
 
     [[SHTOOLS.download]]
-    sha256 = "7c5e39f8374e3bc3916738bc95353e31349064590f13a9668f468a4b3e68d8a9"
-    url = "https://github.com/JuliaBinaryWrappers/SHTOOLS_jll.jl/releases/download/SHTOOLS-v4.8.0+0/SHTOOLS.v4.8.0.x86_64-unknown-freebsd-libgfortran4.tar.gz"
+    sha256 = "eda5d44ceed58be9346755d2e03b0acb95244746aff525d6fb693720a2636782"
+    url = "https://github.com/JuliaBinaryWrappers/SHTOOLS_jll.jl/releases/download/SHTOOLS-v4.8.0+1/SHTOOLS.v4.8.0.x86_64-unknown-freebsd-libgfortran4.tar.gz"
 [[SHTOOLS]]
 arch = "x86_64"
-git-tree-sha1 = "61e03777f415700c2b70a1c9e4c65663164f2e74"
+git-tree-sha1 = "de2da29efc43a29ccaa60ad5b0a8e9f2d10d6158"
 libgfortran_version = "5.0.0"
 os = "freebsd"
 
     [[SHTOOLS.download]]
-    sha256 = "fb95e6da7f09362134c1a7f337caafd4c3d56def0605760dd82275cdbee9016f"
-    url = "https://github.com/JuliaBinaryWrappers/SHTOOLS_jll.jl/releases/download/SHTOOLS-v4.8.0+0/SHTOOLS.v4.8.0.x86_64-unknown-freebsd-libgfortran5.tar.gz"
+    sha256 = "4eeb5002e1ae1d17941d26a507849ffadcc9d3715762228e59929713c2666f8d"
+    url = "https://github.com/JuliaBinaryWrappers/SHTOOLS_jll.jl/releases/download/SHTOOLS-v4.8.0+1/SHTOOLS.v4.8.0.x86_64-unknown-freebsd-libgfortran5.tar.gz"
 [[SHTOOLS]]
 arch = "x86_64"
-git-tree-sha1 = "9f20d18d121e05d92f9da2ef70d1270982da3b3f"
+git-tree-sha1 = "d86c16a9eb0703a7154026ddde53132b8f9be77d"
 libgfortran_version = "3.0.0"
 os = "windows"
 
     [[SHTOOLS.download]]
-    sha256 = "c59d2a953a8e934bf22431de1abeed93935e053df18282fe7313847292f391f1"
-    url = "https://github.com/JuliaBinaryWrappers/SHTOOLS_jll.jl/releases/download/SHTOOLS-v4.8.0+0/SHTOOLS.v4.8.0.x86_64-w64-mingw32-libgfortran3.tar.gz"
+    sha256 = "77ee5ba7b8fb3630d2666f5404ef8c3984c628c03e9f00dffab4f032b0fd388d"
+    url = "https://github.com/JuliaBinaryWrappers/SHTOOLS_jll.jl/releases/download/SHTOOLS-v4.8.0+1/SHTOOLS.v4.8.0.x86_64-w64-mingw32-libgfortran3.tar.gz"
 [[SHTOOLS]]
 arch = "x86_64"
-git-tree-sha1 = "87c88aa7a364a02aa206bc828630ada80ef37ab1"
+git-tree-sha1 = "d44e85fe6bdca8edb59902517cb6a7b7f0252376"
 libgfortran_version = "4.0.0"
 os = "windows"
 
     [[SHTOOLS.download]]
-    sha256 = "049f58a13bfe957fe11153796bd89b1fcd23de662319af6e61f571c499bc8f54"
-    url = "https://github.com/JuliaBinaryWrappers/SHTOOLS_jll.jl/releases/download/SHTOOLS-v4.8.0+0/SHTOOLS.v4.8.0.x86_64-w64-mingw32-libgfortran4.tar.gz"
+    sha256 = "b69c309a5043b57f572849301402d763beb018231f5c396f573e7419fc22f659"
+    url = "https://github.com/JuliaBinaryWrappers/SHTOOLS_jll.jl/releases/download/SHTOOLS-v4.8.0+1/SHTOOLS.v4.8.0.x86_64-w64-mingw32-libgfortran4.tar.gz"
 [[SHTOOLS]]
 arch = "x86_64"
-git-tree-sha1 = "fbbb365db67d18e4dcbce53b793988d721ad0972"
+git-tree-sha1 = "94acd4e782d7efd170f5cfe7015b129f8fca8ca0"
 libgfortran_version = "5.0.0"
 os = "windows"
 
     [[SHTOOLS.download]]
-    sha256 = "06c4b7e5c24c8d3d40b67ad0e49da9fad80b66748b374c3b999f97942ace95b9"
-    url = "https://github.com/JuliaBinaryWrappers/SHTOOLS_jll.jl/releases/download/SHTOOLS-v4.8.0+0/SHTOOLS.v4.8.0.x86_64-w64-mingw32-libgfortran5.tar.gz"
+    sha256 = "0f05e9b7f77493aeff5000a0c951f18672e0543e51d7e733a4436841ecab8131"
+    url = "https://github.com/JuliaBinaryWrappers/SHTOOLS_jll.jl/releases/download/SHTOOLS-v4.8.0+1/SHTOOLS.v4.8.0.x86_64-w64-mingw32-libgfortran5.tar.gz"
